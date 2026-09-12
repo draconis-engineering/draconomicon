@@ -1,4 +1,4 @@
 
-function ()
+M = [1 0; 0 1]
 
-end
+print(eigvals(M))
